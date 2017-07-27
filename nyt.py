@@ -13,8 +13,8 @@ class color:
    UNDERLINE = '\033[4m'
    END = '\033[0m'
 
-   ITALIC = '\e[3m'
-   BOLD = '\e[1m'
+   ITALIC = '\033[3m'
+   BOLD = '\033[1m'
 
 L = [
         'combined-print-and-e-book-nonfiction',
@@ -99,7 +99,7 @@ def _getBS_NYT(bs_url, fresh=True, goodreadsDesc=False):
         res += Fore.YELLOW + '#{}|{:^50}|'.format(idx, FCname) + Fore.RESET + '\t' + Fore.RED + author + Fore.RESET + ' ISBN: ' + isbn;
         if fresh:
             res += ' ' + Style.BRIGHT + freshness + Style.RESET_ALL + '\n'
-        res += '\t' + Fore.GREEN + description + Fore.RESET + '\n\n\n'
+        res += '\t' + description + '\n\n\n'
     return res
 
 
