@@ -30,6 +30,11 @@ L = [
         ]
 
 def _html2text(htmlTag):
+    '''
+    change HTML tags(in text) to terminal escape, e.g.:
+        <b> -> \e[1m
+        <i> -> \e[3m
+    '''
     # print('processing Tag ', htmlTag)
     if isinstance(htmlTag, bs4.element.NavigableString):
         return str(htmlTag)
@@ -42,7 +47,7 @@ def _html2text(htmlTag):
         res += ''.join([_html2text(child) for child in x.children])
         res += color.END
         # print("res", res)
-    elif x.name == 'b':
+    elif x.name == 'b' or x.name == 'strong' or x.name == 'em':
         # print('Bold')
         res += color.BOLD
         res += ''.join([_html2text(child) for child in x.children])
@@ -56,7 +61,7 @@ def _html2text(htmlTag):
     elif x.name == 'div' or x.name == 'span':
         res += ''.join([_html2text(child) for child in x.children])
     else:
-        print(x)
+        print("New label", x.name)
         raise(ValueError)
     return res
 
@@ -75,27 +80,25 @@ def _getBS_NYT(bs_url, fresh=True, goodreadsDesc=False):
         author = item.findAll('p', class_='author')[0].text
         publisher = item.findAll('p', class_='publisher')[0].text
         isbn = item.findAll('meta', {'itemprop': 'isbn'})[1]['content']
-        print("getting description of book: " + FCname + " " + isbn)
+        print("\tgetting description of book: " + Style.BRIGHT + FCname + Style.RESET_ALL + " " + isbn)
         if goodreadsDesc:
             goodr = requests.get('https://www.goodreads.com/book/isbn/' + isbn)
             goodsoup = BeautifulSoup(goodr.text, 'lxml')
             descContainer = goodsoup.findAll('div', {'id': 'descriptionContainer'})
             if len(descContainer) != 0: # e.g. 9780399180842 does not exist.
                 descs = descContainer[0].findAll('span')
+                descriptionFull = ""
+                if len(descs) < 2:
+                    print(Fore.RED + "book " + isbn + " description not full."  + Fore.RESET)
+                else:
+                    descriptionFull = _html2text(descs[1])
                 descriptionShort = _html2text(descs[0])
-                descriptionFull = _html2text(descs[1])
-                description = descriptionFull
+                description = descriptionFull if descriptionFull != "" else descriptionShort
             else:
                 description = item.findAll('p', class_='description')[0].text.strip()
         else:
             description = item.findAll('p', class_='description')[0].text.strip()
 
-        # print('#{}|{:^50}|'.format(idx, FCname) + '\t' + Fore.RED + Style.DIM + author + Style.RESET_ALL + ' ISBN: ' + isbn + Style.BRIGHT + ' ' + freshness + Style.RESET_ALL)
-        # print('\t' + Fore.YELLOW + description + Style.RESET_ALL)
-        # print('\n')
-
-        # res += '#{}|{:^50}|'.format(idx, FCname) + '\t' + Fore.RED + Style.DIM + author + Style.RESET_ALL + ' ISBN: ' + isbn + ' ' + Style.BRIGHT + freshness + Style.RESET_ALL + '\n'
-        # res += '\t' + Fore.YELLOW + description + Style.RESET_ALL + '\n\n\n'
         res += Fore.YELLOW + '#{}|{:^50}|'.format(idx, FCname) + Fore.RESET + '\t' + Fore.RED + author + Fore.RESET + ' ISBN: ' + isbn;
         if fresh:
             res += ' ' + Style.BRIGHT + freshness + Style.RESET_ALL + '\n'
@@ -133,10 +136,11 @@ while True:
         print(color.RED + "Please enter a number" + color.END)
         continue
     for x in tobeUpdate:
+        print("Getting " + Fore.LIGHTBLUE_EX + L[x] + Fore.RESET)
         bs_url = 'https://www.nytimes.com/books/best-sellers/' + L[x]
         res = _getBS_NYT(bs_url, fresh=(x < 7), goodreadsDesc=True)
         fname = 'nyt_' + L[x] + '.txt'
         with open(fname, 'w', encoding='utf-8') as f:
             f.write(res)
-        print(res)
-        print("check it out in " + fname)
+        #print(res)
+        print("check it out in " + Style.BRIGHT + fname + Style.RESET_ALL)
