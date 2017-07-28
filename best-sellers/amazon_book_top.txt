@@ -1,0 +1,101 @@
+[33mTop Books[39m
+	1. [1mWhat Happened[0m [2m1501175564[0m [35m[39m [32m[39m [32mRelease Date: September 12, 2017[39m
+	2. [1mCapital Gaines: Smart Things I Learned Doing Stupid Stuff[0m [2m0785216308[0m [35m[39m [32m[39m [32mRelease Date: October 17, 2017[39m
+	3. [1mThe Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life[0m [2m0062457713[0m [35m4.6 out of 5 stars[39m [32m1,641[39m [32m[39m
+	4. [1mMilk and Honey[0m [2m144947425X[0m [35m4.7 out of 5 stars[39m [32m2,532[39m [32m[39m
+	5. [1mReady Player One: A Novel[0m [2m0307887448[0m [35m4.6 out of 5 stars[39m [32m12,614[39m [32m[39m
+	6. [1mWonder[0m [2m0375869026[0m [35m4.9 out of 5 stars[39m [32m9,760[39m [32m[39m
+	7. [1mThe Glass Castle: A Memoir[0m [2m074324754X[0m [35m4.6 out of 5 stars[39m [32m5,869[39m [32m[39m
+	8. [1mDying: A Memoir[0m [2m1941040705[0m [35m4.2 out of 5 stars[39m [32m8[39m [32mRelease Date: August 1, 2017[39m
+	9. [1mThe Official SAT Study Guide, 2018 Edition (Official Study Guide for the New Sat)[0m [2m1457309289[0m [35m4.1 out of 5 stars[39m [32m29[39m [32m[39m
+	10. [1mThe 5 Love Languages: The Secret to Love that Lasts[0m [2m080241270X[0m [35m4.8 out of 5 stars[39m [32m11,517[39m [32m[39m
+	11. [1mHillbilly Elegy: A Memoir of a Family and Culture in Crisis[0m [2m0062300547[0m [35m4.4 out of 5 stars[39m [32m7,698[39m [32m[39m
+	12. [1mYou Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life[0m [2m0762447699[0m [35m4.7 out of 5 stars[39m [32m2,592[39m [32m[39m
+	13. [1mFriction: Passion Brands in the Age of Disruption[0m [2m1576878368[0m [35m4.5 out of 5 stars[39m [32m40[39m [32m[39m
+	14. [1mThe Handmaid's Tale[0m [2m038549081X[0m [35m4.1 out of 5 stars[39m [32m7,042[39m [32m[39m
+	15. [1mDangerous[0m [2m069289344X[0m [35m4.9 out of 5 stars[39m [32m931[39m [32m[39m
+	16. [1mThe Whole30: The 30-Day Guide to Total Health and Food Freedom[0m [2m0544609719[0m [35m4.6 out of 5 stars[39m [32m2,827[39m [32m[39m
+	17. [1mChasing Excellence: A Story About Building the World's Fittest Athletes[0m [2m1619617285[0m [35m4.8 out of 5 stars[39m [32m25[39m [32m[39m
+	18. [1mStrengthsFinder 2.0[0m [2m159562015X[0m [35m4.0 out of 5 stars[39m [32m3,180[39m [32m[39m
+	19. [1mTurtles All the Way Down (Signed Edition)[0m [2m0525555382[0m [35m[39m [32m[39m [32mRelease Date: October 10, 2017[39m
+	20. [1mAstrophysics for People in a Hurry[0m [2m0393609391[0m [35m4.6 out of 5 stars[39m [32m891[39m [32m[39m
+	21. [1mHow to Win Friends & Influence People[0m [2m0671027034[0m [35m4.7 out of 5 stars[39m [32m6,038[39m [32m[39m
+	22. [1mThe Late Show[0m [2m0316225983[0m [35m4.2 out of 5 stars[39m [32m384[39m [32m[39m
+	23. [1mDevil's Bargain: Steve Bannon, Donald Trump, and the Storming of the Presidency[0m [2m0735225028[0m [35m3.6 out of 5 stars[39m [32m57[39m [32m[39m
+	24. [1mFirst 100 Words[0m [2m0312510780[0m [35m4.6 out of 5 stars[39m [32m6,937[39m [32m[39m
+	25. [1mHow to Read Literature Like a Professor: A Lively and Entertaining Guide to Reading Between the Lines, Revised Edition[0m [2m0062301675[0m [35m4.3 out of 5 stars[39m [32m728[39m [32m[39m
+	26. [1m1984 (Signet Classics)[0m [2m0451524934[0m [35m4.4 out of 5 stars[39m [32m6,251[39m [32m[39m
+	27. [1mIt: A Novel[0m [2m1501142976[0m [35m4.6 out of 5 stars[39m [32m2,635[39m [32m[39m
+	28. [1mThe Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book)[0m [2m1878424319[0m [35m4.6 out of 5 stars[39m [32m6,345[39m [32m[39m
+	29. [1mFirst Day Jitters (Mrs. Hartwells classroom adventures)[0m [2m158089061X[0m [35m4.7 out of 5 stars[39m [32m315[39m [32m[39m
+	30. [1mThe Great Gatsby[0m [2m0743273567[0m [35m4.3 out of 5 stars[39m [32m6,523[39m [32m[39m
+	31. [1mGiraffes Can't Dance[0m [2m0545392551[0m [35m4.8 out of 5 stars[39m [32m3,067[39m [32m[39m
+	32. [1mPuppy Birthday to You! (Paw Patrol) (Little Golden Book)[0m [2m0553522779[0m [35m4.8 out of 5 stars[39m [32m1,202[39m [32m[39m
+	33. [1mAl Franken, Giant of the Senate[0m [2m1455540412[0m [35m4.7 out of 5 stars[39m [32m910[39m [32m[39m
+	34. [1mThe Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing[0m [2m1607747308[0m [35m4.5 out of 5 stars[39m [32m12,184[39m [32m[39m
+	35. [1mDarkness of Dragons (Wings of Fire, Book 10)[0m [2m0545685478[0m [35m4.7 out of 5 stars[39m [32m17[39m [32m[39m
+	36. [1mA Gentleman in Moscow: A Novel[0m [2m0670026190[0m [35m4.7 out of 5 stars[39m [32m3,620[39m [32m[39m
+	37. [1mThe Plant Paradox: The Hidden Dangers in "Healthy" Foods That Cause Disease and Weight Gain[0m [2m006242713X[0m [35m4.6 out of 5 stars[39m [32m426[39m [32m[39m
+	38. [1mThug Kitchen: The Official Cookbook: Eat Like You Give a F*ck[0m [2m1623363586[0m [35m4.6 out of 5 stars[39m [32m4,464[39m [32m[39m
+	39. [1mThe Very Hungry Caterpillar[0m [2m0399226907[0m [35m4.6 out of 5 stars[39m [32m3,086[39m [32m[39m
+	40. [1mA Man Called Ove: A Novel[0m [2m1476738025[0m [35m4.6 out of 5 stars[39m [32m13,484[39m [32m[39m
+	41. [1mPublication Manual of the American Psychological Association[0m [2m1433805618[0m [35m4.3 out of 5 stars[39m [32m4,136[39m [32m[39m
+	42. [1mOption B: Facing Adversity, Building Resilience, and Finding Joy[0m [2m1524732680[0m [35m4.5 out of 5 stars[39m [32m533[39m [32m[39m
+	43. [1mForks Over Knives - The Cookbook: Over 300 Recipes for Plant-Based Eating All Through the Year[0m [2m1615190619[0m [35m4.4 out of 5 stars[39m [32m1,912[39m [32m[39m
+	44. [1mThe Land of Stories: Worlds Collide[0m [2m0316355895[0m [35m4.7 out of 5 stars[39m [32m73[39m [32m[39m
+	45. [1mDear Zoo: A Lift-the-Flap Book[0m [2m141694737X[0m [35m4.8 out of 5 stars[39m [32m2,306[39m [32m[39m
+	46. [1mLove, Africa: A Memoir of Romance, War, and Survival[0m [2m0062284096[0m [35m4.5 out of 5 stars[39m [32m78[39m [32m[39m
+	47. [1mThinking, Fast and Slow[0m [2m0374533555[0m [35m4.5 out of 5 stars[39m [32m2,668[39m [32m[39m
+	48. [1mMake Your Bed: Little Things That Can Change Your Life...And Maybe the World[0m [2m1455570249[0m [35m4.7 out of 5 stars[39m [32m759[39m [32m[39m
+	49. [1mCamino Island: A Novel[0m [2m0385543026[0m [35m3.9 out of 5 stars[39m [32m2,151[39m [32m[39m
+	50. [1mTo Kill a Mockingbird[0m [2m0446310786[0m [35m4.8 out of 5 stars[39m [32m10,017[39m [32m[39m
+	51. [1mThe Wonderful Things You Will Be[0m [2m0385376715[0m [35m4.8 out of 5 stars[39m [32m1,193[39m [32m[39m
+	52. [1mRediscovering Americanism: And the Tyranny of Progressivism[0m [2m1476773084[0m [35m4.7 out of 5 stars[39m [32m435[39m [32m[39m
+	53. [1mA Wrinkle in Time (Time Quintet)[0m [2m0312367546[0m [35m4.4 out of 5 stars[39m [32m2,602[39m [32m[39m
+	54. [1mWhat to Expect When You're Expecting[0m [2m0761187480[0m [35m4.4 out of 5 stars[39m [32m3,957[39m [32m[39m
+	55. [1mKillers of the Flower Moon: The Osage Murders and the Birth of the FBI[0m [2m0385534248[0m [35m4.7 out of 5 stars[39m [32m806[39m [32m[39m
+	56. [1mGoodnight Moon[0m [2m0694003611[0m [35m4.7 out of 5 stars[39m [32m2,945[39m [32m[39m
+	57. [1mOf Mess and Moxie: Wrangling Delight Out of This Wild and Glorious Life[0m [2m0718031849[0m [35m[39m [32m[39m [32mRelease Date: August 8, 2017[39m
+	58. [1mHow Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease[0m [2m1250066115[0m [35m4.8 out of 5 stars[39m [32m2,093[39m [32m[39m
+	59. [1mThe Keto Diet: The Complete Guide to a High-Fat Diet, with More Than 125 Delectable Recipes and 5 Meal Plans to Shed Weight, Heal Your Body, and Regain Confidence[0m [2m1628600160[0m [35m4.8 out of 5 stars[39m [32m820[39m [32m[39m
+	60. [1mThe 7 Habits of Highly Effective People: Powerful Lessons in Personal Change[0m [2m1451639619[0m [35m4.5 out of 5 stars[39m [32m4,686[39m [32m[39m
+	61. [1mThe Care and Keeping of You: The Body Book for Younger Girls, Revised Edition[0m [2m1609580834[0m [35m4.8 out of 5 stars[39m [32m2,252[39m [32m[39m
+	62. [1mFahrenheit 451[0m [2m1451673310[0m [35m4.4 out of 5 stars[39m [32m3,430[39m [32m[39m
+	63. [1mBrown Bear, Brown Bear, What Do You See?[0m [2m0805047905[0m [35m4.8 out of 5 stars[39m [32m2,474[39m [32m[39m
+	64. [1mAll the Light We Cannot See: A Novel[0m [2m1501173219[0m [35m4.6 out of 5 stars[39m [32m26,941[39m [32m[39m
+	65. [1mDaring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead[0m [2m1592408419[0m [35m4.7 out of 5 stars[39m [32m2,776[39m [32m[39m
+	66. [1mThe Instant Pot® Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals[0m [2m1623156122[0m [35m4.2 out of 5 stars[39m [32m1,415[39m [32m[39m
+	67. [1mMindset: The New Psychology of Success[0m [2m0345472322[0m [35m4.5 out of 5 stars[39m [32m2,139[39m [32m[39m
+	68. [1mLord of the Flies[0m [2m0399501487[0m [35m4.2 out of 5 stars[39m [32m2,945[39m [32m[39m
+	69. [1mThe Book Thief[0m [2m0375842209[0m [35m4.6 out of 5 stars[39m [32m17,317[39m [32m[39m
+	70. [1mBeneath a Scarlet Sky: A Novel[0m [2m1503943372[0m [35m4.8 out of 5 stars[39m [32m6,116[39m [32m[39m
+	71. [1mMinecraft: The Island: A Novel[0m [2m0399181776[0m [35m4.2 out of 5 stars[39m [32m7[39m [32m[39m
+	72. [1mIf Animals Kissed Good Night[0m [2m0374300216[0m [35m4.6 out of 5 stars[39m [32m883[39m [32m[39m
+	73. [1mLove Her Wild: Poems[0m [2m1501171232[0m [35m4.8 out of 5 stars[39m [32m108[39m [32m[39m
+	74. [1mLilac Girls: A Novel[0m [2m1101883081[0m [35m4.6 out of 5 stars[39m [32m3,116[39m [32m[39m
+	75. [1mRichard Scarry's Cars and Trucks from A to Z (A Chunky Book(R))[0m [2m0679806636[0m [35m4.4 out of 5 stars[39m [32m473[39m [32m[39m
+	76. [1mPlayer's Handbook (Dungeons & Dragons)[0m [2m0786965606[0m [35m4.6 out of 5 stars[39m [32m2,141[39m [32m[39m
+	77. [1mThe Nightingale: A Novel[0m [2m1250080401[0m [35m4.8 out of 5 stars[39m [32m34,117[39m [32m[39m
+	78. [1mOh, the Places You'll Go!  [0m [2m0679805273[0m [35m4.9 out of 5 stars[39m [32m3,856[39m [32m[39m
+	79. [1mThe Going-To-Bed Book[0m [2m0671449028[0m [35m4.6 out of 5 stars[39m [32m2,289[39m [32m[39m
+	80. [1mP is for Potty! (Sesame Street) (Lift-the-Flap)[0m [2m038538369X[0m [35m4.4 out of 5 stars[39m [32m777[39m [32m[39m
+	81. [1mThe Couple Next Door: A Novel[0m [2m0735221103[0m [35m4.1 out of 5 stars[39m [32m2,038[39m [32m[39m
+	82. [1mOf Mice and Men[0m [2m0140177396[0m [35m4.5 out of 5 stars[39m [32m2,546[39m [32m[39m
+	83. [1mThe Woman in Cabin 10[0m [2m1501132954[0m [35m3.8 out of 5 stars[39m [32m3,030[39m [32m[39m
+	84. [1mThe Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are[0m [2m159285849X[0m [35m4.6 out of 5 stars[39m [32m3,436[39m [32m[39m
+	85. [1mThe Outsiders[0m [2m014240733X[0m [35m4.7 out of 5 stars[39m [32m3,100[39m [32m[39m
+	86. [1mTruly Madly Guilty[0m [2m1250069807[0m [35m3.7 out of 5 stars[39m [32m3,277[39m [32m[39m
+	87. [1mShe Persisted: 13 American Women Who Changed the World[0m [2m1524741728[0m [35m4.2 out of 5 stars[39m [32m273[39m [32m[39m
+	88. [1mChicka Chicka Boom Boom (Board Book)[0m [2m1442450703[0m [35m4.8 out of 5 stars[39m [32m2,380[39m [32m[39m
+	89. [1mRed Notice: A True Story of High Finance, Murder, and One Man’s Fight for Justice[0m [2m1476755744[0m [35m4.8 out of 5 stars[39m [32m2,156[39m [32m[39m
+	90. [1mThe Twisted Ones (Five Nights at Freddy's #2)[0m [2m1338139304[0m [35m4.5 out of 5 stars[39m [32m107[39m [32m[39m
+	91. [1mHouse of Spies: A Novel (Gabriel Allon)[0m [2m0062354345[0m [35m4.6 out of 5 stars[39m [32m601[39m [32m[39m
+	92. [1mOutliers: The Story of Success[0m [2m0316017930[0m [35m4.6 out of 5 stars[39m [32m4,744[39m [32m[39m
+	93. [1mSapiens: A Brief History of Humankind[0m [2m0062316095[0m [35m4.6 out of 5 stars[39m [32m3,387[39m [32m[39m
+	94. [1mLove You Forever[0m [2m0920668372[0m [35m4.8 out of 5 stars[39m [32m5,966[39m [32m[39m
+	95. [1mThe Silent Wife: A gripping emotional page turner with a twist that will take your breath away[0m [2m1786811278[0m [35m4.4 out of 5 stars[39m [32m263[39m [32m[39m
+	96. [1mNight (Night)[0m [2m0374500010[0m [35m4.7 out of 5 stars[39m [32m4,783[39m [32m[39m
+	97. [1mThe Power of Now: A Guide to Spiritual Enlightenment[0m [2m1577314808[0m [35m4.6 out of 5 stars[39m [32m5,107[39m [32m[39m
+	98. [1mMoana Little Golden Book (Disney Moana)[0m [2m0736436030[0m [35m4.7 out of 5 stars[39m [32m147[39m [32m[39m
+	99. [1mThe Cartel 7: Illuminati: Roundtable of Bosses[0m [2m1250067006[0m [35m3.5 out of 5 stars[39m [32m54[39m [32m[39m
+	100. [1mBaby Touch and Feel: Animals[0m [2m0756634687[0m [35m4.5 out of 5 stars[39m [32m1,507[39m [32m[39m
